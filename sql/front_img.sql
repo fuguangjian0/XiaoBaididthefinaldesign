@@ -1,0 +1,17 @@
+INSERT INTO `front_img` (`id`, `name`, `url`) VALUES (1, '黑暗之魂', 'https://cdn.cloudflare.steamstatic.com/steam/apps/570940/header.jpg?t=1682652141');
+INSERT INTO `front_img` (`id`, `name`, `url`) VALUES (2, '大表哥', 'https://cdn.cloudflare.steamstatic.com/steam/apps/1174180/header.jpg?t=1671485009t=1694032482');
+INSERT INTO `front_img` (`id`, `name`, `url`) VALUES (3, 'Focus you', 'https://media.st.dl.eccdnx.com/steam/apps/1032670/header_292x136.jpg?t=1630300278');
+INSERT INTO `front_img` (`id`, `name`, `url`) VALUES (4, '地平线5', 'https://media.st.dl.eccdnx.com/steam/apps/1222680/header_292x136.jpg?t=1690398297');
+INSERT INTO `front_img` (`id`, `name`, `url`) VALUES (5, '艾尔登法环', 'https://media.st.dl.eccdnx.com/steam/apps/1245620/header.jpg?t=1683618443');
+INSERT INTO `front_img` (`id`, `name`, `url`) VALUES (6, '只狼', 'https://media.st.dl.eccdnx.com/steam/apps/814380/header.jpg?t=1678991267');
+INSERT INTO `front_img` (`id`, `name`, `url`) VALUES (7, '只狼', 'https://media.st.dl.eccdnx.com/steam/apps/814380/header.jpg?t=1678991267');
+INSERT INTO `front_img` (`id`, `name`, `url`) VALUES (8, '艾尔登法环', 'https://media.st.dl.eccdnx.com/steam/apps/1245620/header.jpg?t=1683618443');
+INSERT INTO `front_img` (`id`, `name`, `url`) VALUES (9, '艾尔登法环', 'https://media.st.dl.eccdnx.com/steam/apps/1245620/header.jpg?t=1683618443');
+INSERT INTO `front_img` (`id`, `name`, `url`) VALUES (10, '艾尔登法环', 'https://media.st.dl.eccdnx.com/steam/apps/1245620/header.jpg?t=1683618443');
+INSERT INTO `front_img` (`id`, `name`, `url`) VALUES (11, '艾尔登法环', 'https://media.st.dl.eccdnx.com/steam/apps/1245620/header.jpg?t=1683618443');
+INSERT INTO `front_img` (`id`, `name`, `url`) VALUES (12, '艾尔登法环', 'https://media.st.dl.eccdnx.com/steam/apps/1245620/header.jpg?t=1683618443');
+INSERT INTO `front_img` (`id`, `name`, `url`) VALUES (13, '大表哥', 'https://cdn.cloudflare.steamstatic.com/steam/apps/1174180/header.jpg?t=1671485009t=1694032482');
+INSERT INTO `front_img` (`id`, `name`, `url`) VALUES (14, '黑暗之魂', 'https://cdn.cloudflare.steamstatic.com/steam/apps/570940/header.jpg?t=1682652141');
+INSERT INTO `front_img` (`id`, `name`, `url`) VALUES (15, '黑暗之魂', 'https://cdn.cloudflare.steamstatic.com/steam/apps/570940/header.jpg?t=1682652141');
+INSERT INTO `front_img` (`id`, `name`, `url`) VALUES (16, '黑暗之魂', 'https://cdn.cloudflare.steamstatic.com/steam/apps/570940/header.jpg?t=1682652141');
+INSERT INTO `front_img` (`id`, `name`, `url`) VALUES (17, '黑暗之魂', 'https://cdn.cloudflare.steamstatic.com/steam/apps/570940/header.jpg?t=1682652141');

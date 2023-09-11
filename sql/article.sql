@@ -1,0 +1,2 @@
+INSERT INTO `article` (`id`, `name`, `content`, `user`, `time`) VALUES (2, '青哥哥文章2号', '青哥哥文章2号\n\n青哥哥文章2号\n\n青哥哥文章2号\n\n![QQ图片20220307194920.png](http://localhost:9090/file/5e40a867acd74d1f90b0ac9a765823e5.png)', '程序员青戈', '2022-05-22 19:22:58');
+INSERT INTO `article` (`id`, `name`, `content`, `user`, `time`) VALUES (3, '123', '![avatar1.jpg](http://localhost:9090/file/14742a0a55a3418e886dffe7802b09f8.jpg)', NULL, NULL);

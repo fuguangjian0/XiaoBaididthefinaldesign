@@ -1,0 +1,18 @@
+/* 去除边框 */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; /*border-box: 盒装模型,忽略边框*/
+}
+
+.ml-5 {
+    margin-left: 5px;
+}
+
+.mr-5 {
+    margin-right: 5px;
+}
+
+.pd-10 {
+    padding: 10px 0;
+}

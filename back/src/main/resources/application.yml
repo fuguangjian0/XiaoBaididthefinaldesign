@@ -1,0 +1,20 @@
+server:
+  port: 9090
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/qing
+    username: root
+    password: root
+  servlet:
+    multipart:
+      max-file-size: 100MB
+      max-request-size: 100MB
+mybatis-plus:
+  mapper-locations: classpath:mapper/*.xml  # all MP xml
+  configuration:
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+
+file:
+  upload:
+    path: E:/upload/
